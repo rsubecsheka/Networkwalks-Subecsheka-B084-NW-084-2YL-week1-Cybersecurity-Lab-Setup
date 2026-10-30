@@ -134,7 +134,7 @@ The VM was allocated:
 ```text
 RAM: 2048 MB
 ```
-
+![image alt](https://github.com/rsubecsheka/Networkwalks-Subecsheka-B084-NW-084-2YL-week1-Cybersecurity-Lab-Setup/blob/3bff2faa5a28157a67708cd60fc9607f293de311/image%202%20.png)
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
 
 
@@ -156,7 +156,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![](4-screenshot-kali-network-settings.png)
+
 
 ---
 
