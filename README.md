@@ -156,7 +156,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-
+![image alt](https://github.com/rsubecsheka/Networkwalks-Subecsheka-B084-NW-084-2YL-week1-Cybersecurity-Lab-Setup/blob/3179cf39449656fd6763fdaee42d0fef6d1edb4e/image%203%20.png)
 
 ---
 
@@ -291,10 +291,9 @@ This laboratory is intended strictly for education purposes only.
 
 # 👤 Author
 
-**Waqas Karim**\
-Cybersecurity Professional B082
-
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+**Subecsheka**\
+Cybersecurity Undergratuate | Diploma in Science(It/Computing)
+LinkedIn: www.linkedin.com/in/subecsheka-ravindra-ab03412b3 
 
 ---
 
